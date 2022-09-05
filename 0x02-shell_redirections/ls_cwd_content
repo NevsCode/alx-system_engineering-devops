@@ -1,0 +1,13 @@
+total 44
+4 -rwxr--r-- 1 root root  32 Sep  5 07:44 0-hello_world
+4 -rwxr--r-- 1 root root  30 Sep  5 07:55 1-confused_smiley
+4 -rwxr--r-- 1 root root  28 Sep  5 08:17 2-hellofile
+4 -rwxr--r-- 1 root root  38 Sep  5 08:24 3-twofiles
+4 -rwxr--r-- 1 root root  35 Sep  5 08:27 4-lastlines
+4 -rwxr--r-- 1 root root  35 Sep  5 08:31 5-firstlines
+4 -rwxr--r-- 1 root root  40 Sep  5 08:44 6-third_line
+4 -rwxr--r-- 1 root root 108 Sep  5 09:09 7-file
+4 -rwxr--r-- 1 root root  36 Sep  5 09:10 8-cwd_state
+0 -rw-r--r-- 1 root root   0 Sep  5 09:14 ls_cwd_content
+4 -rw-r--r-- 1 root root  18 Sep  5 07:45 README.md
+4 -rw-r--r-- 1 root root  17 Sep  5 08:56 \*\\'"winderemeschool"\'\\*$\?\*\*\*\*\*:)
